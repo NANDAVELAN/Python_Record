@@ -23,8 +23,7 @@ To create a Python program that prompts the user for a list of grades separated 
 ### PROGRAM
 
 ```python
-Reg.No:212223060190
-Name:Om Sharma M
+
 Add Your Code Here
 
 try:
